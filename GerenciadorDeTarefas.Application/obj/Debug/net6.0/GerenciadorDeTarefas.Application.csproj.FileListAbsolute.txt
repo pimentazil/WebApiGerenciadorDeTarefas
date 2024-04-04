@@ -1,0 +1,17 @@
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Application.deps.json
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Application.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\bin\Debug\net6.0\GerenciadorDeTarefas.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.csproj.CopyComplete
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\refint\GerenciadorDeTarefas.Application.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\GerenciadorDeTarefas.Application.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Application\obj\Debug\net6.0\ref\GerenciadorDeTarefas.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.deps.json
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\refint\GerenciadorDeTarefas.Communication.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net6.0\ref\GerenciadorDeTarefas.Communication.dll

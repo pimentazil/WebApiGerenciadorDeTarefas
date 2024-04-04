@@ -1,0 +1,15 @@
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\bin\Debug\net6.0\GerenciadorDeTarefas.Repository.deps.json
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\bin\Debug\net6.0\GerenciadorDeTarefas.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\bin\Debug\net6.0\GerenciadorDeTarefas.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.csproj.AssemblyReference.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.AssemblyInfoInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.AssemblyInfo.cs
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.csproj.CoreCompileInputs.cache
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\refint\GerenciadorDeTarefas.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\ref\GerenciadorDeTarefas.Repository.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\bin\Debug\net6.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\1math\OneDrive\Documentos\RocketSeat\C#\GerenciadorDeTarefas\GerenciadorDeTarefas.Repository\obj\Debug\net6.0\GerenciadorDeTarefas.Repository.csproj.CopyComplete
